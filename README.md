@@ -2,6 +2,10 @@
 
 Bienvenido al repositorio de proyecto de inteligencia artificial para identificar tipos de parqueaderos. Este proyecto utiliza un cuaderno de Google Colab para entrenar y evaluar un modelo de IA, lo que proporciona una herramienta útil para la evaluación de parqueaderos y la estimación de su valor.
 
+link del video explicativo:
+
+https://www.youtube.com/watch?v=dziZITIkNEQ
+
 ## Uso del Repositorio
 ### Clonar el Repositorio
 Si eres nuevo en GitHub y deseas utilizar el proyecto en tu máquina local, sigue estos pasos:
